@@ -176,7 +176,6 @@ a{
 }
 
 .skills-name{
-    color: darkblue;
     border-radius: 20px;
     padding-top: 5px;
     padding-bottom: 5px;
@@ -186,36 +185,6 @@ a{
         width: 100%;
         height: 100%;
     }
-}
-.project-container{
-     row-gap:2rem;
-}
-.project-title{
-    color: darkblue;
-    font-weight: bold;
-    font-style: italic;
-    text-align: center;
-    font-size: 30px;
-    text-decoration: darkblue dotted underline;
-}
-.pro-img{
-    display:block
-    width: 250px;
-    height: 200px;
-    border-radius: 20px;
-    box-shadow: 0 4px 25px black;
-     margin-right:auto;
-     margin-left: auto;
-    margin-top: 30px;
-    margin-bottom: 30px;
-}
-.pro-img{
-    transition: 1s;
-    cursor: pointer;
-}
-.pro-img:hover{
-    transform: scale(1.1);
-}
 
 .contact-input{
     width: 100%;
